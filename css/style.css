@@ -1,0 +1,40 @@
+#gallery  .row div{
+	padding: 0;
+	border-radius: 30px;
+}
+
+#gallery  .row img{
+	border-radius: 30px;
+}
+
+#secondNav{
+	margin-top:70px;
+}
+
+#down, #up{
+	position: fixed;
+	top:72px;
+	color:#0883E1;
+}
+
+#down{
+	right:55px;
+}
+
+#up{
+	right:20px;
+}
+
+#linea{
+	border:15px solid #0883E1;
+	position: fixed;
+	top:50%;
+	left: 1px;
+	width: 97%;
+	z-index:-3;
+	border-radius: 30px;
+}
+
+textarea{
+	resize: none;
+}
